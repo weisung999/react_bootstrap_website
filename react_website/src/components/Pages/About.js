@@ -14,8 +14,7 @@ class About extends Component {
                     showButton={false}
                     image={image}
                 />
-                <Timeline />
-                <Team />      
+                <Timeline />     
             </div>
         )
     }
